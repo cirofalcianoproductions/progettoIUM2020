@@ -22,7 +22,7 @@
 <h5><br>Agricol�rio nasce dall'idea di realizzare un sistema adatto alla compilazione di un <b><i>registro fitosanitario</i></b></h5>
 <h5><b>innovativo</b>, <b>moderno</b>, <b>dinamico</b> e, sopra ogni cosa,
 			<b>alla portata di tutti</b>.</h5>
-<h5>Il team di progettisti � composto da tre appassionati di informatica,
+<h5>Il team di progettisti � composto da appassionati di informatica,
 			aspiranti web developer, studenti a tempo pieno, </h5>
 <h5>ponendosi sempre l'obiettivo di sviluppare prodotti <b>user-friendly</b>.</h5>
 </div>
